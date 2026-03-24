@@ -1,0 +1,82 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Scriptable iOS Widgets",
+      "description": "A sophisticated collection of custom-built iOS widgets leveraging the Scriptable API. Each widget is designed to enhance productivity by delivering real-time data and automated workflows directly to the iOS home screen.",
+      "technologies": [
+        "JavaScript",
+        "iOS API",
+        "Automation"
+      ],
+      "category": "automation",
+      "image": "assets/projects/ios-banner.png",
+      "githubUrl": "https://gokul-codes-420.github.io/Master---Coder/",
+      "liveUrl": "",
+      "liveLabel": "Documentation",
+      "liveIcon": "fas fa-book",
+      "featured": true,
+      "layout": "large"
+    },
+    {
+      "id": 2,
+      "title": "Gokul Bashfolio",
+      "description": "An innovative terminal-style portfolio interface that mirrors a real Bash environment.",
+      "technologies": [
+        "JavaScript",
+        "CSS3",
+        "Terminal Emulation"
+      ],
+      "category": "web",
+      "image": "assets/projects/terminal-banner.png",
+      "githubUrl": "https://github.com/gokul-codes-420/Gokul-Bashfolio",
+      "liveUrl": "",
+      "featured": true,
+      "layout": "small"
+    },
+    {
+      "id": 3,
+      "title": "GitHub Advanced Widget",
+      "description": "A comprehensive monitoring tool for developers that visualizes GitHub contributions.",
+      "technologies": [
+        "JavaScript",
+        "GitHub API",
+        "Data Visualization"
+      ],
+      "category": "automation",
+      "image": "assets/projects/github-banner.png",
+      "githubUrl": "https://github.com/gokul-codes-420/GitHub-Widget",
+      "liveUrl": "",
+      "liveLabel": "Documentation",
+      "liveIcon": "fas fa-book",
+      "featured": true,
+      "layout": "small"
+    }
+  ],
+  "categories": [
+    {
+      "id": "all",
+      "name": "All",
+      "icon": "fa-solid fa-diagram-project",
+      "visible": true
+    },
+    {
+      "id": "web",
+      "name": "Web Dev",
+      "icon": "fa-solid fa-globe",
+      "visible": true
+    },
+    {
+      "id": "education",
+      "name": "Educational",
+      "icon": "fa-solid fa-graduation-cap",
+      "visible": false
+    },
+    {
+      "id": "automation",
+      "name": "Automation",
+      "icon": "fa-solid fa-robot",
+      "visible": true
+    }
+  ]
+}

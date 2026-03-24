@@ -1,0 +1,63 @@
+{
+    "profile": {
+        "name": "Gokul",
+        "tagline": "Full Stack Developer",
+        "location": "",
+        "bannerImage": "../ele/card_banner.png",
+        "profileImage": "../ele/profile_pic.png",
+        "themeColor": "#8b5cf6"
+    },
+    "skills": [
+        "Full Stack Developer",
+        "Tech Explorer"
+    ],
+    "socialLinks": [
+        {
+            "platform": "Discord",
+            "url": "",
+            "icon": "discord",
+            "tooltip": "Discord"
+        },
+        {
+            "platform": "LinkedIn",
+            "url": "",
+            "icon": "linkedin",
+            "tooltip": "LinkedIn"
+        },
+        {
+            "platform": "GitHub",
+            "url": "",
+            "icon": "github",
+            "tooltip": "GitHub"
+        },
+        {
+            "platform": "Email",
+            "url": "",
+            "icon": "email",
+            "tooltip": "Email"
+        },
+        {
+            "platform": "linktree",
+            "url": "",
+            "icon": "linktree",
+            "tooltip": "Linktree"
+        }
+    ],
+    "footer": {
+        "text": "Made by Gokul",
+        "url": "",
+        "showHeart": true
+    },
+    "animations": {
+        "enableHover3D": true,
+        "enableRippleEffect": true,
+        "enableParallax": true
+    },
+    "customization": {
+        "cardWidth": "430px",
+        "cardBorderRadius": "24px",
+        "glowIntensity": "20px",
+        "backgroundType": "solid",
+        "backgroundColor": "#000000"
+    }
+}
