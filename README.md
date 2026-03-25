@@ -4,7 +4,7 @@ A modern, minimalist portfolio showcasing projects and skills.
 
 ## Live Demo
 
-[Click To View The Project Demo](https://gokul-codes-420.github.io/portfolio-main/)
+[Click To View The Portfolio](https://gokul-codes-420.github.io/portfolio-main/)
 
 ## Features
 
