@@ -29,4 +29,4 @@ A modern, minimalist portfolio showcasing projects and skills.
 
 ## Contact
 
-Created by [Gokul Santhosh](https://github.com/gokul-codes-420)
+Created by [Gokul - Code - 420](https://github.com/gokul-codes-420)
