@@ -10,6 +10,10 @@ Preview ScreenShots ---
 
 <img width="2530" height="1362" alt="image" src="https://github.com/user-attachments/assets/7f5cd801-77e9-4662-b27c-816d054b49f7" />
 
+Dark Mode ScreenShot Preview
+
+<img width="2528" height="1360" alt="image" src="https://github.com/user-attachments/assets/13c800dd-5fe7-4dc2-893e-ca2946833af9" />
+
 
 ## Features
 
