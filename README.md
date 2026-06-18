@@ -6,6 +6,11 @@ A modern, minimalist portfolio showcasing projects and skills.
 
 [Click To View The Portfolio](https://gokul-codes-420.github.io/portfolio-main/)
 
+Preview ScreenShots ---
+
+<img width="2530" height="1362" alt="image" src="https://github.com/user-attachments/assets/7f5cd801-77e9-4662-b27c-816d054b49f7" />
+
+
 ## Features
 
 - **Minimalist Design**: A clean and professional look with refined typography.
